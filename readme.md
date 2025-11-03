@@ -16,6 +16,17 @@ The docs are powered by [Docsify](https://docsify.js.org/) and hosted on [GitHub
 
 You can request changes by making a fork and opening a [pull request](https://github.com/qmk/qmk_firmware/pulls), or by clicking the "Edit this page" link at the bottom of any page.
 
+## GitHub Codespaces
+
+This repository is configured for [GitHub Codespaces](https://github.com/features/codespaces), allowing you to develop and compile QMK firmware directly in your browser without installing any software locally.
+
+To get started with Codespaces:
+1. Fork this repository
+2. Click the "Code" button and select "Codespaces"
+3. Create a new Codespace
+
+For detailed instructions, see [.devcontainer/README.md](.devcontainer/README.md).
+
 ## Supported Keyboards
 
 * [Planck](/keyboards/planck/)
